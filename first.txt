@@ -3,3 +3,5 @@ List of programming langues
 1. Java
 2. .Net
 3. php
+4. css
+5. javaScript
